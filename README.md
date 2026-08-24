@@ -1,5 +1,6 @@
 # Data Jobs Dashboard w/PowerBI
-![Dashboard page 1](/images/Project%201%20page%201/
+![Dashboard page 1](images/Project%201%20page%201/dashboard-overview.png)
+![Dashboard page 2 - Business Analyst drill-through](images/Project%201%20page%202/business-analyst-drillthrough.png)
 ## Introduction
 I built a Power BI project analyzing data job postings for people who are looking for a job, or transitioning and tracking job counts and average salaries over time, with a drill-through page for role-specific analysis (business analyst position). I enjoy working at the intersection of data modeling, and visual storytelling."
 
@@ -24,4 +25,3 @@ Formatting & Storytelling — Applied formatting, titles, and layout choices to 
 KPI Indicators (Card Visuals) — Used KPI/card visuals to highlight key metrics at a glance, such as total job count and average salary, giving viewers an immediate snapshot before they dive into the detailed charts.
 
 Tables — Included table visuals to display detailed, row-level data alongside the charts, letting users see exact figures (job titles, counts, salary values) rather than relying on visuals alone.
-
